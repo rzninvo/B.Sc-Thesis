@@ -1,0 +1,11 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "AUTthesis.xdv" "AUTthesis.pdf" "AUTthesis" 0
+  "AUTthesis.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "AUTthesis.pdf"
+["xelatex"] 0 "AUTthesis.tex" "AUTthesis.xdv" "AUTthesis" 0
+  "AUTthesis.aux" 1697810923 32 3985256e7290058c681f74d7a3565a19 ""
+  "AUTthesis.tex" 0 -1 0 ""
+  (generated)
+  "AUTthesis.log"
+  "AUTthesis.xdv"
